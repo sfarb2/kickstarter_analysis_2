@@ -13,7 +13,7 @@ I performed my analysis in two distinctly different fashions:
 ### Analysis of Outcomes Based on Launch Date
 The launch date outcome analysis relied on creating a pivot table. After creating the "YEAR" column as instructed, the pivot table setup was relatively straightforward:
 
-![Pivot Table]((../Desktop/Pivot%20table%20example.png))
+![Pivot Table](pivot_table_example)
 
 ### Analysis of Outcomes Based on Goals
 On the other hand, our goal-based outcome analysis eschewed pivot tables for formulas. 
