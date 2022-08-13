@@ -50,4 +50,4 @@ However, upon review the criteria stood alone as simply "criteria" (e.g. "<1000"
 - What are some other possible tables and/or graphs that we could create?
   * Though a line graph seems like the clear choice for evaluating outcomes by launch date (as it generally would for most cases in which the x-axis represents chronological time), it's possible that a bar chart or histogram would have been a more valuable visual representation of outcomes based on goal.
   
-  ![Potential Bar Chart](/)
+  ![Potential Bar Chart](/Potential_bar_chart_2.png)
