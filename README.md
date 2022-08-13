@@ -43,7 +43,7 @@ However, upon review the criteria stood alone as simply "criteria" (e.g. "<1000"
   2. October and December returned the lowest rates of success; December was the only month in which less than half of campaigns were successful.
 - What can you conclude about the Outcomes based on Goals?
   1. Not surprisingly, lower goals were reached more often their more-expensive counterparts. 
-  2. Groups of campaigns seeking less than 20,000 were more likely to succeed than fail; and there was a surprisingly similar relationship across the range spanning 35,000-44,999. In any other group, a campaign was more likely to fail than succeed.
+  2. Groups of campaigns seeking less than 20,000 were more likely to succeed than fail, and there was a striking level of success across the range spanning 35,000-44,999. In any other group, a campaign was more likely to fail than succeed.
 - What are some limitations of this dataset?
   1. We don't know the results of the live campaigns which could affect the data one way or the other (it may less than 2% of all campaigns but the impact could be more significant at the month or goal level).
   2. Theater campaigns were undertaken in nearly 20 different countries so unless we are to assume that the currency values have all been standardized (presumably to American dollars), we might be misrepresenting some of monetary values.
