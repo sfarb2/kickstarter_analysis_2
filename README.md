@@ -18,11 +18,11 @@ The launch date outcome analysis relied on creating a pivot table. After creatin
 ### Analysis of Outcomes Based on Goals
 On the other hand, our goal-based outcome analysis eschewed pivot tables for formulas. 
 
-![Table from Formulas](/Countifs_example.png)
+![Table from Formulas](/)
 
 Throughout that sheet, most of the formulas were some variation of:
 ```
-=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000")
+=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$D:$D,"<1000",Kickstarter!$R:$R,"plays")
 
 =SUM(B2:D2)
 
